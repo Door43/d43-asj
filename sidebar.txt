@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asj:home|Door43 (asj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asj|d43-asj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asj/archive/master.zip|d43-asj.zip]]
+
+**Recent Changes**
+{{changes>ns = asj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asj|Ethnologue data]]
+
